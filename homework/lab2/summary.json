@@ -1,0 +1,11 @@
+{
+  "total_revenue": 1170000,
+  "top_user": "Dana",
+  "most_popular_item": "phone",
+  "total_orders": 3,
+  "user_orders": {
+    "Ali": 2,
+    "Dana": 1
+  },
+  "total_items_sold": 5
+}

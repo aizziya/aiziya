@@ -1,0 +1,10 @@
+2026-04-21 22:21:14.898995;1;LOOT;{'item': <__main__.Item object at 0x1062fb110>}
+2026-04-21 22:21:14.899025;1;ATTACK;{'damage': 18}
+2026-04-21 22:21:14.899027;1;LOOT;{'item': <__main__.Item object at 0x105c2f380>}
+2026-04-21 22:21:14.899028;1;LOOT;{'item': <__main__.Item object at 0x105c2f380>}
+2026-04-21 22:21:14.899030;1;ATTACK;{'damage': 27}
+2026-04-21 22:21:14.899031;1;LOOT;{'item': <__main__.Item object at 0x1062fb110>}
+2026-04-21 22:21:14.899033;1;ATTACK;{'damage': 16}
+2026-04-21 22:21:14.899033;1;ATTACK;{'damage': 24}
+2026-04-21 22:21:14.899034;1;LOOT;{'item': <__main__.Item object at 0x1062fb110>}
+2026-04-21 22:21:14.899035;1;ATTACK;{'damage': 27}
